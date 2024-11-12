@@ -1,0 +1,10 @@
+name: "Module 6: Wrap Up"
+items:
+  - type: assignment
+    title: "6.1 Verify Your Setup (Required)"
+    body: "verify_setup.md"
+  - type: subheader
+    title: Resources
+  - type: page
+    title: "6.1.1: Additional Resources"
+    body: "6-dot-1-1-additional-resources.md"
